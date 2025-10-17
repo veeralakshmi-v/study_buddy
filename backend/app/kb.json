@@ -1,0 +1,22 @@
+[
+  {
+    "id": "doc1",
+    "title": "Linear Algebra - Vectors and Matrices",
+    "content": "A vector is an ordered list of numbers. Vectors have magnitude and direction. Matrices are two-dimensional arrays used to represent linear transformations. Matrix multiplication composes linear transformations. The dot product of two vectors is a scalar equal to the sum of pairwise products. The rank of a matrix is the dimension of its column space."
+  },
+  {
+    "id": "doc2",
+    "title": "Probability basics",
+    "content": "Probability is a measure between 0 and 1 that describes the chance of an event. Random variables can be discrete or continuous. Expectation is the weighted average of outcomes. The law of large numbers states that averages converge to expectation as sample size grows. Bayes theorem relates conditional probabilities."
+  },
+  {
+    "id": "doc3",
+    "title": "Neural Networks - basics",
+    "content": "Neural networks are composed of layers: input, hidden, output. Each neuron computes a weighted sum of inputs and passes it through an activation function. Backpropagation computes gradients of loss w.r.t. weights using chain rule. Common activations: ReLU, sigmoid, tanh. For classification, softmax with cross-entropy loss is common."
+  },
+  {
+    "id": "doc4",
+    "title": "Gradient Descent",
+    "content": "Gradient descent is an optimization algorithm to minimize a function by moving in the negative gradient direction. Learning rate controls step size. Stochastic gradient descent uses single samples, while batch gradient descent uses the full dataset. Momentum helps accelerate convergence."
+  }
+]
